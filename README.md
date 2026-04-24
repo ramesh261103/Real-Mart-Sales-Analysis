@@ -61,6 +61,23 @@ The dataset contains:
 ![Dashboard](images/dashboard_preview.png)
 
 ---
+## 📊 Key Performance Indicators (KPIs)
+
+* **Total Sales**
+  Total revenue generated from all transactions.
+  *(Calculated using SUM of Sales column)*
+
+* **Total Profit**
+  Difference between total revenue and total cost.
+  *(Profit = Sales – Cost)*
+
+* **Total Orders**
+  Total number of transactions/orders placed.
+  *(Count of Invoice IDs)*
+
+* **Average Rating**
+  Average customer satisfaction rating.
+  *(Calculated using AVERAGE of Rating column)*
 
 ## 📈 Key Insights
 
